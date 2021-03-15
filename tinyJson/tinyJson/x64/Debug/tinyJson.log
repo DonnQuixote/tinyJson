@@ -1,2 +1,5 @@
-﻿  test.cpp
-  tinyJson.vcxproj -> F:\21年找工作记录\tinyJson\tinyJson\x64\Debug\tinyJson.exe
+﻿  tinyJson.cpp
+f:\21年找工作记录\tinyjson\tinyjson\tinyjson\tinyjson.cpp(491): warning C4244: “参数”: 从“const double”转换到“const size_t”，可能丢失数据
+f:\21年找工作记录\tinyjson\tinyjson\tinyjson\tinyjson.cpp(491): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+  f:\21年找工作记录\tinyjson\tinyjson\tinyjson\tinyjson.cpp(491): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\21年找工作记录\tinyjson\tinyjson\tinyjson\tinyjson.cpp(491): note: 缺失的可变参数 1 为格式字符串“%.17g”所需
